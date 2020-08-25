@@ -6,7 +6,7 @@
   "devDependencies": {
     "coveralls": "^3.0.2",
     "jasmine-core": "^3.3.0",
-    "jest": "^24.1.0",
+    "jest": "^26.4.2",
     "karma": "^4.0.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-firefox-launcher": "^1.1.0",
