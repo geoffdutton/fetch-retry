@@ -1,6 +1,6 @@
 {
   "name": "@geoffdutton/fetch-retry",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "license": "MIT",
   "main": "/dist/fetch-retry.js",
   "devDependencies": {
