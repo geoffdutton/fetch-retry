@@ -16,7 +16,7 @@
     "node-fetch": "^1.7.3",
     "puppeteer": "^5.2.1",
     "standard": "^14.3.4",
-    "webpack": "^4.44.1",
+    "webpack": "^4.45.0",
     "webpack-cli": "^3.3.12"
   },
   "peerDependencies": {
