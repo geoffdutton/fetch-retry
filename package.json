@@ -37,5 +37,15 @@
   "files": [
     "/dist",
     "/yarn.lock"
-  ]
+  ],
+  "description": "Original Credit: [zeit/fetch-retry](https://github.com/zeit/fetch-retry) A layer on top of `fetch` with sensible defaults for retrying to prevent common errors.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geoffdutton/fetch-retry.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/geoffdutton/fetch-retry/issues"
+  },
+  "homepage": "https://github.com/geoffdutton/fetch-retry#readme"
 }
